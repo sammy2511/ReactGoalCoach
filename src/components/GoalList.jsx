@@ -22,9 +22,6 @@ class GoalList extends Component{
 
   }
 
-  getList(){
-
-  }
 
   render(){
     return(
